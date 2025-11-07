@@ -19,7 +19,7 @@ export default function RootLayout({
         <Navbar />
         
        
-        <main className="min-h-screen bg-red-100">
+        <main className="min-h-screen bg-rose-50">
           {children}
         </main>
 
